@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Paul</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [VentureBoost](https://github.com/rebornstar1/VentureBoost)
+- 🔭 I’m currently working on [Pathforge - Frontend](https://github.com/rebornstar1/PathForge-Frontend) and [Pathforge - Backend](https://github.com/parthrevanwar/PathForge)
 
 - 🌱 I’m currently learning **React.js ,Node.js , Next.js , Java ,**
 
