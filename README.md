@@ -3,7 +3,13 @@
 
 - 🔭 I’m currently working on [Pathforge - Frontend](https://github.com/rebornstar1/PathForge-Frontend) and [Pathforge - Backend](https://github.com/parthrevanwar/PathForge)
 
-- 🌱 I’m currently learning **React.js ,Node.js , Next.js , Java ,**
+- 🌱 I’m currently learning **React.js , Node.js , Next.js , Java ,**
+
+- 👨‍💻 I have done **MERN Stack Developer Internship** at **DigitalMania**
+
+- 👨‍💻 Currently doing **Spring Boot Internship** at **Screenera**
+
+- 🚀 Currently building my project [Instruct AI](https://github.com/rebornstar1/InstructAI)
 
 - 👯 I’m looking to collaborate on [Tesla IIITA](https://github.com/rebornstar1/Tesla-Site)
 
