@@ -44,12 +44,15 @@ I actively use Redis for:
 
 ## 🏅 Achievements
 
+- 🏆 Second Runner Up at FinArva AI Hackathon (Top 2 among 22000+ Candidates)
 - 🥇 Finalist - Amdocs GenAI Hackathon (Top 4 of 12,000+)
 - 🧠 NTSE Scholar – State Rank 3 (Maharashtra)
 - 🌍 World Rank 74 – CodeChef Starter 102
 - 🧮 Specialist – Codeforces (@reborn_star)
 - 🦸‍♂️ Knight Badge – LeetCode
 - 🏆 Champion Badge – GirlScript Summer of Code 2024
+- 🏆 Winner at WebKriti Hackathon Organized by GeekHaven IIITA
+- 🦸‍♂️ PSS Scholar
 
 ---
 
