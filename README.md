@@ -28,12 +28,12 @@ Secure, sandboxed code execution environment supporting multiple languages.
 
 ## 💼 Security & Engineering Experience
 
-- 🛡️ **Security Intern – DevSecOps** @ EngOps (Feb 2025 – May 2025)  
+- 🛡️ **Security Intern – DevSecOps** @ EngOps (Dec 2025 – May 2025)  
   - Integrated OWASP ZAP with CI/CD for 6+ apps.
   - Built scripts for XSS/auth detection; triaged 25+ issues.
   - Contributed to static code checks & secure coding workflows.
 
-- 👨‍💻 **Spring Boot Intern** @ Screenera.ai (Jan 2025 – Present)  
+- 👨‍💻 **Spring Boot Intern** @ Screenera.ai (July 2024 – Dec 2024)  
   - Designed secure microservices using Keycloak, Kong, Redis, and Docker.
 
 - 👨‍💻 **MERN Stack Intern** @ DigitalMania  
