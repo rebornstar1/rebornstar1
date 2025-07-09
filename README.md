@@ -1,108 +1,91 @@
 # 👋 Hi there, I'm Sanjay Paul!
 
-I'm a passionate Fullstack Developer from India 🇮🇳, dedicated to building innovative, scalable web applications and contributing to open-source projects. I enjoy exploring cutting-edge tech like **React, Spring Boot, Redis, WebRTC, and Docker**, and have hands-on experience through real-world projects and internships.
+I'm an aspiring **Application Security Engineer** and DevSecOps enthusiast from India 🇮🇳. I specialize in building secure, scalable systems and integrating security into every phase of the software development lifecycle.
+
+I love exploring offensive and defensive security concepts, automating vulnerability discovery, and writing secure code — whether it's through **OWASP Top 10 scanners**, **CI/CD integration**, or **real-world code audits**.
 
 ---
 
-## 🏗️ Featured Projects
+## 🔐 Security-Driven Projects
 
-### 🚀 [InstructAI](https://github.com/rebornstar1/InstructAI)
-AI-driven learning platform with real-time video/audio rooms and adaptive content generation.
+### 🛡️ [OWASPCheck](https://github.com/rebornstar1/OWASPCheck)
+A lightweight Python-based CLI tool for identifying **OWASP Top 10 vulnerabilities** in web apps.
+- 📄 Generates actionable reports to help developers fix issues fast.
+- 🐳 Docker support for CI/CD workflows.
+- 🔍 Scans for XSS, broken auth, misconfigurations, and more.
+
+### 🕸️ [InstructAI](https://github.com/rebornstar1/InstructAI)
+AI-driven collaborative platform with built-in **WebRTC security**, **rate-limiting**, and **context-aware access control**.
 - 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
 - ⚙️ Stack: Spring Boot, Redis, Socket.io, WebRTC, PostgreSQL, Docker
 
-### 💻 [CodeBox](https://github.com/rebornstar1/CodeBox)
-Containerized multi-language code execution platform with microservices architecture.
-- 🔗 [Live](https://code-box-gamma.vercel.app)
-- ⚙️ Stack: Node.js, Docker, Redis, RabbitMQ, Express
-
-### 🌐 [VentureBoost](https://github.com/rebornstar1/VentureBoost)
-A collaborative platform for startup pitching, funding, and real-time discussions.
-- 💬 Real-time messaging via Socket.io
-- 💳 Stripe for seamless transactions
+### 🔐 [CodeBox](https://github.com/rebornstar1/CodeBox)
+Secure, sandboxed code execution environment supporting multiple languages.
+- 🧩 Microservices architecture with Docker + RabbitMQ.
+- 🚧 Runtime isolation for safe, concurrent task execution.
 
 ---
 
-## 💼 Experience
+## 💼 Security & Engineering Experience
+
+- 🛡️ **Security Intern – DevSecOps** @ EngOps (Feb 2025 – May 2025)  
+  - Integrated OWASP ZAP with CI/CD for 6+ apps.
+  - Built scripts for XSS/auth detection; triaged 25+ issues.
+  - Contributed to static code checks & secure coding workflows.
 
 - 👨‍💻 **Spring Boot Intern** @ Screenera.ai (Jan 2025 – Present)  
-  Built microservices with Spring Boot, Kong Gateway, Redis, Keycloak, RabbitMQ, and Docker.
+  - Designed secure microservices using Keycloak, Kong, Redis, and Docker.
 
 - 👨‍💻 **MERN Stack Intern** @ DigitalMania  
-  Contributed to full-stack development and real-time features.
+  - Implemented real-time features with Socket.io, with an eye on secure state handling.
 
 ---
 
-## 🧠 Redis in Action
+## ⚙️ AppSec & DevSecOps Highlights
 
-I actively use Redis for:
-- 🔄 Caching API results (40% latency reduction in InstructAI)
-- 🔔 Real-time pub/sub systems
-- ⚡ Temporary state management in scalable microservices
+- 🧪 **OWASP ZAP** automation in CI/CD pipelines
+- 🐍 Security scripting with **Python**, **Bash**
+- 🧱 Lightweight **static analysis** for JavaScript/Java
+- 📦 Secure Docker-based service deployments
+- 🔁 Redis for **rate-limiting**, **session handling**, and **pub/sub**
 
 ---
 
 ## 🏅 Achievements
 
-- 🏆 Second Runner Up at FinArva AI Hackathon (Top 2 among 22000+ Candidates)
-- 🥇 Finalist - Amdocs GenAI Hackathon (Top 4 of 12,000+)
+- 🏆 Second Runner Up – FinArva AI Hackathon (Top 2/22,000+)
+- 🥇 Finalist – Amdocs GenAI Hackathon (Top 4/12,000+)
 - 🧠 NTSE Scholar – State Rank 3 (Maharashtra)
 - 🌍 World Rank 74 – CodeChef Starter 102
 - 🧮 Specialist – Codeforces (@reborn_star)
-- 🦸‍♂️ Knight Badge – LeetCode
-- 🏆 Champion Badge – GirlScript Summer of Code 2024
-- 🏆 Winner at WebKriti Hackathon Organized by GeekHaven IIITA
-- 🦸‍♂️ PSS Scholar
+- 🏆 Champion – GirlScript Summer of Code 2024
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Toolbox
+
+### Security Tools  
+`OWASP ZAP` · `Docker Security` · `Static Code Scanning` · `Header Audits` · `Auth Testing` · `Secure CI/CD`
 
 ### Languages  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases & Infra  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & DevOps  
+### Dev & Infra  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/keycloak-1A1A1A.svg?style=for-the-badge&logo=keycloak&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💻 Competitive Programming
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/reborn_star)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/reborn_star)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/reborn_star)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/reborn_star)
 
 ---
 
 ## 🌱 Currently Exploring
-- ⚛️ Advanced React Patterns
-- 🧪 Distributed Systems with Spring Boot
-- 🗃️ Redis + Pub/Sub + Caching Patterns
-- 🧠 Microservice Design with RabbitMQ, Kong, and Kubernetes
+- 🔐 Secure microservice communication patterns
+- 🧠 Threat modeling and secure architecture reviews
+- ⚙️ Building custom security automation tools
+- 🌐 Security headers, CSP, and authentication flows
 
 ---
 
