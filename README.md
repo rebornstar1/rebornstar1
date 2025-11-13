@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sanjay Paul!
+# 👋 Hi!
 
 I'm a passionate Fullstack Developer from India 🇮🇳, dedicated to building innovative, scalable web applications and contributing to open-source projects. I enjoy exploring cutting-edge tech like **React, Spring Boot, Redis, WebRTC, and Docker**, and have hands-on experience through real-world projects and internships.
 
