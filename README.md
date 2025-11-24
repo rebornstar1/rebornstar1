@@ -86,15 +86,6 @@ I actively use Redis for:
 
 ---
 
-## 💻 Competitive Programming
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/reborn_star)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/reborn_star)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/reborn_star)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/reborn_star)
-
----
-
 ## 🌱 Currently Exploring
 - ⚛️ Advanced React Patterns
 - 🧪 Distributed Systems with Spring Boot
