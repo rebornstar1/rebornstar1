@@ -1,117 +1,138 @@
-# 👋 Hi!
+This updated GitHub profile is designed to reflect your latest professional experiences, specifically highlighting your work with **Fabric** and **Screenera.ai**, while showcasing your high-ranking competitive programming achievements.
 
-I'm a passionate Fullstack Developer from India 🇮🇳, dedicated to building innovative, scalable web applications and contributing to open-source projects. I enjoy exploring cutting-edge tech like **React, Spring Boot, Redis, WebRTC, and Docker**, and have hands-on experience through real-world projects and internships.
+---
+
+# 👋 Hi, I'm Sanjay Paul
+
+**Software Engineer Intern | Full-Stack Developer | Competitive Programmer**
+
+I am a B.Tech student at **IIIT Allahabad** (CGPA: 8.28) specializing in building scalable distributed systems and high-performance web applications. My expertise lies in architecting microservices, optimizing backend throughput, and developing real-time collaborative platforms.
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer Intern** | **Fabric**
+
+*Jan 2025 – Present* 
+
+* Developed an **ATS integration platform** for AI-driven assessments using **OAuth 2.0** and a three-stage **ETL pipeline**.
+
+
+* Architected a configuration-driven mapping framework with **60+ declarative transformations** per ATS, reducing code duplication through reusable JSON schemas.
+
+
+* Engineered high-efficiency data synchronization using **Django signals** and **Python generators** for streaming ingestion.
+
+
+
+### **Software Engineer Intern** | **Screenera.ai**
+
+*2025* 
+
+* Built a modular **microservices architecture** using **Spring Boot**, containerized with **Docker** for streamlined deployment.
+
+
+* Implemented centralized API routing with **Kong API Gateway** and integrated **Keycloak** for robust role-based access control.
+
+
+* Optimized backend load by leveraging **Redis** for batch caching and **RabbitMQ** for asynchronous processing, supporting **1,000+ concurrent users**.
+
+
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🚀 [InstructAI](https://github.com/rebornstar1/InstructAI)
-AI-driven learning platform with real-time video/audio rooms and adaptive content generation.
-- 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
-- ⚙️ Stack: Spring Boot, Redis, Socket.io, WebRTC, PostgreSQL, Docker
+### 🚀 **InstructAI** | [View Repository](https://github.com/rebornstar1/InstructAI)
 
-### 💻 [CodeBox](https://github.com/rebornstar1/CodeBox)
-Containerized multi-language code execution platform with microservices architecture.
-- 🔗 [Live](https://code-box-gamma.vercel.app)
-- ⚙️ Stack: Node.js, Docker, Redis, RabbitMQ, Express
+*LLM-powered collaborative learning platform*.
 
-### 🌐 [VentureBoost](https://github.com/rebornstar1/VentureBoost)
-A collaborative platform for startup pitching, funding, and real-time discussions.
-- 💬 Real-time messaging via Socket.io
-- 💳 Stripe for seamless transactions
+* 
+**Tech Stack:** Spring Boot, React, Redis Streams, RabbitMQ, WebRTC, PostgreSQL.
 
----
 
-## 💼 Experience
+* Achieved **40% reduction in DB queries** and improved response times by **85ms** through strategic Redis caching.
 
-- 👨‍💻 **Spring Boot Intern** @ Screenera.ai (Jan 2025 – Present)  
-  Built microservices with Spring Boot, Kong Gateway, Redis, Keycloak, RabbitMQ, and Docker.
 
-- 👨‍💻 **MERN Stack Intern** @ DigitalMania  
-  Contributed to full-stack development and real-time features.
+* Integrated **WebRTC** and **Socket.IO** for low-latency, real-time media streaming and synchronized communication.
+
+
+
+### 💻 **CodeBox** | [View Repository](https://github.com/rebornstar1/CodeBox)
+
+*Containerized multi-language code execution platform.*
+
+* Utilizes **Docker** for isolated execution environments and **RabbitMQ** for task queuing.
 
 ---
 
-## 🧠 Redis in Action
+## 🏅 Technical Achievements
 
-I actively use Redis for:
-- 🔄 Caching API results (40% latency reduction in InstructAI)
-- 🔔 Real-time pub/sub systems
-- ⚡ Temporary state management in scalable microservices
+* 
+**FinArvaAI Hackathon 2025:** Secured **3rd Place Nationally** among 22,000+ participants in a flagship GenAI fintech challenge.
 
----
 
-## 🏅 Achievements
+* 
+**Amazon HackOn:** Ranked among the **Top 75 coders** in a nationwide competitive coding challenge.
 
-- 🥇 Finalist - Amdocs GenAI Hackathon (Top 4 of 12,000+)
-- 🌍 World Rank 74 – CodeChef Starter 102
-- 🧮 Specialist – Codeforces (@reborn_star)
-- 🦸‍♂️ Knight Badge – LeetCode
-- 🏆 Champion Badge – GirlScript Summer of Code 2024
 
----
+* 
+**Flipkart Grid 7.0:** Advanced to **Semifinals** among 1,50,000+ participants.
 
-## 💻 Tech Stack
 
-### Languages  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+* **Competitive Programming:**
+* 
+**CodeChef:** Global Rank **74/25,000** (Top 0.3%).
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases & Infra  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* 
+**Codeforces:** Specialist (Max Rating: **1504**).
 
-### Tools & DevOps  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Keycloak](https://img.shields.io/badge/keycloak-1A1A1A.svg?style=for-the-badge&logo=keycloak&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+* 
+**LeetCode:** Solved **800+ problems**.
+
+
+
+
+* 
+**NTSE Scholar:** Awarded State Rank 3 in Maharashtra.
+
+
 
 ---
 
-## 🌱 Currently Exploring
-- ⚛️ Advanced React Patterns
-- 🧪 Distributed Systems with Spring Boot
-- 🗃️ Redis + Pub/Sub + Caching Patterns
-- 🧠 Microservice Design with RabbitMQ, Kong, and Kubernetes
+## 🛠️ Technical Toolkit
+
+* 
+**Languages:** C/C++, JavaScript, TypeScript, Python, SQL.
+
+
+* 
+**Backend:** Spring Boot, Express.js, Django, Node.js.
+
+
+* 
+**Frontend:** React.js, Next.js, HTML/CSS.
+
+
+* 
+**Infrastructure & Tools:** Docker, Redis, RabbitMQ, Kong Gateway, Keycloak, Git, PostgreSQL, MongoDB.
+
+
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-manikrao-paul/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebornstar1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulsanjaymanikrao67@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://github.com/rebornstar1/resume/blob/main/Sanjay_Paul_Resume.pdf)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rebornstar1&theme=react&border=61DAFB&fire=DDB80F" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&layout=compact" width="500"/>
+<p align="left">
+<img src="[https://github-readme-stats.vercel.app/api?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true)" width="400"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&layout=compact)" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rebornstar1&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rebornstar1&icon=0&color=0" alt="Profile Views" />
-</p>
+Would you like me to generate a specific **GitHub Profile Header image** or a professional **banner** tailored to these achievements?
