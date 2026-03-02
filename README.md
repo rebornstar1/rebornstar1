@@ -65,52 +65,36 @@ I am a B.Tech student at **IIIT Allahabad** (CGPA: 8.28) specializing in buildin
 
 ## 🏅 Technical Achievements
 
-* 
-**FinArvaAI Hackathon 2025:** Secured **3rd Place Nationally** among 22,000+ participants in a flagship GenAI fintech challenge.
+* **FinArvaAI Hackathon 2025:** Secured **3rd Place Nationally** among 22,000+ participants in a flagship GenAI fintech challenge.
 
 
-* 
-**Amazon HackOn:** Ranked among the **Top 75 coders** in a nationwide competitive coding challenge.
+* **Amazon HackOn:** Ranked among the **Top 75 coders** in a nationwide competitive coding challenge.
 
 
-* 
-**Flipkart Grid 7.0:** Advanced to **Semifinals** among 1,50,000+ participants.
+* **Flipkart Grid 7.0:** Advanced to **Semifinals** among 1,50,000+ participants.
 
 
 * **Competitive Programming:**
-* 
-**CodeChef:** Global Rank **74/25,000** (Top 0.3%).
+* **CodeChef:** Global Rank **74/25,000** (Top 0.3%).
 
 
-* 
-**Codeforces:** Specialist (Max Rating: **1504**).
+* **Codeforces:** Specialist (Max Rating: **1504**).
 
 
-* 
-**LeetCode:** Solved **800+ problems**.
+* **LeetCode:** Solved **800+ problems**.
 
 
 
 ## 🛠️ Technical Toolkit
 
-* 
-**Languages:** C/C++, JavaScript, TypeScript, Python, SQL.
+* **Languages:** C/C++, JavaScript, TypeScript, Python, SQL, Go.
 
+* **Backend:** Spring Boot, Express.js, Django, Node.js.
 
-* 
-**Backend:** Spring Boot, Express.js, Django, Node.js.
+* **Frontend:** React.js, Next.js, HTML/CSS.
 
+* **Infrastructure & Tools:** Docker, Redis, RabbitMQ, Kong Gateway, Keycloak, Git, PostgreSQL, MongoDB.
 
-* 
-**Frontend:** React.js, Next.js, HTML/CSS.
-
-
-* 
-**Infrastructure & Tools:** Docker, Redis, RabbitMQ, Kong Gateway, Keycloak, Git, PostgreSQL, MongoDB.
-
-
-
----
 
 ## 🌐 Connect & Stats
 
