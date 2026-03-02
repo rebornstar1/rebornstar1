@@ -1,7 +1,3 @@
-This updated GitHub profile is designed to reflect your latest professional experiences, specifically highlighting your work with **Fabric** and **Screenera.ai**, while showcasing your high-ranking competitive programming achievements.
-
----
-
 # 👋 Hi, I'm Sanjay Paul
 
 **Software Engineer Intern | Full-Stack Developer | Competitive Programmer**
@@ -95,14 +91,6 @@ I am a B.Tech student at **IIIT Allahabad** (CGPA: 8.28) specializing in buildin
 
 
 
-
-* 
-**NTSE Scholar:** Awarded State Rank 3 in Maharashtra.
-
-
-
----
-
 ## 🛠️ Technical Toolkit
 
 * 
@@ -132,7 +120,3 @@ I am a B.Tech student at **IIIT Allahabad** (CGPA: 8.28) specializing in buildin
 <img src="[https://github-readme-stats.vercel.app/api?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true)" width="400"/>
 <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&layout=compact)" width="300"/>
 </p>
-
----
-
-Would you like me to generate a specific **GitHub Profile Header image** or a professional **banner** tailored to these achievements?
