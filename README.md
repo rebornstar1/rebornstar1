@@ -12,7 +12,7 @@ I am a B.Tech student at **IIIT Allahabad** (CGPA: 8.28) specializing in buildin
 
 *Jan 2025 – Present* 
 
-* Developed an **ATS integration platform** for AI-driven assessments using **OAuth 2.0** and a three-stage **ETL pipeline**.
+* Developed an **ATS integration platform** for AI-driven assessments using a three-stage **ETL pipeline**.
 
 
 * Architected a configuration-driven mapping framework with **60+ declarative transformations** per ATS, reducing code duplication through reusable JSON schemas.
